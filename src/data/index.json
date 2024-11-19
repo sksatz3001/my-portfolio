@@ -1,0 +1,114 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Crafting pixel-perfect, responsive, and interactive user interfaces using modern technologies like React.js, Next.js, Tailwind CSS, Material UI, and ShadcnUI to deliver seamless user experiences."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End",
+      "description": "Building robust, scalable, and efficient server-side applications with Node.js, NestJS, Express.js, and MongoDB to power dynamic and data-driven platforms."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "No-Code",
+      "description": "Designing and customizing stunning websites using WordPress, Shopify, and Webflow for businesses seeking quick and hassle-free solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/foodie.png",
+      "title": "Foodie",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://foodies-phi-cyan.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/car.png",
+      "title": "Car Rental",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://car-rental-beige-delta.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/book.png",
+      "title": "Book Store",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://book-store-olive-six.vercel.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/coffee.png",
+      "title": "Coffee",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://coffee-five-steel.vercel.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/travel.png",
+      "title": "Travel",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://travel-rose-omega.vercel.app/"
+    },
+    {
+      "id": "6",
+      "src": "./img/space.png",
+      "title": "Space",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://space-ten-opal.vercel.app/"
+    },
+    {
+      "id": "7",
+      "src": "./img/agency.png",
+      "title": "Agency",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://marketing-rho-pink.vercel.app/"
+    },
+    {
+      "id": "8",
+      "src": "./img/shopsy.png",
+      "title": "Shopsy",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://shopsy-psi.vercel.app/"
+    },
+    {
+      "id": "9",
+      "src": "./img/straw.png",
+      "title": "Strawberry",
+      "description": "Built using HTML, Tailwind CSS, and React, delivering a visually appealing and user-friendly interface.",
+      "link": "https://strawberry-three.vercel.app/"
+    }
+  
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
