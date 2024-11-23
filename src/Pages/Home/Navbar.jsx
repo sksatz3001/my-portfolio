@@ -33,7 +33,7 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className={`navbar ${navActive ? "active" : ""}`}>
+    <nav className={`navbar navs ${navActive ? "active" : ""}`}>
       <div>
       <h2 className="logoname">My Portfolio</h2>
       </div>

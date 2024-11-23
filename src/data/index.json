@@ -110,5 +110,48 @@
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Freelance Web Developer",
+      "location": "Freelancer, Chennai",
+      "description":
+        "Skilled in coding websites using HTML, CSS, JavaScript, and React.js, with expertise in planning and developing web applications by converting mockups into functional web interfaces using React.js and Next.js. Proficient in front-end development through platforms like WordPress, Webflow, and Shopify, while effectively managing technical issues and troubleshooting to resolve user challenges.",
+      "date": "December 2023 - present",
+      "icon": "work"
+    },
+    {
+      "id": "2",
+      "title": "Senior Web Developer",
+      "location": "SaaSForest Infotech Private Ltd, Chennai",
+      "description":
+        "Led the development and team management for an OLX-like platform utilizing Next.js, React.js, TypeScript, Prisma, MySQL, and Tailwind CSS, featuring a robust admin panel with full UI control and a real-time chat feature. Successfully built a scalable e-commerce website and spearheaded the creation of a modern HRM tool for task management and performance tracking, demonstrating strong leadership and technical expertise in managing development teams.",
+    
+      "date": "July 2023 - December 2023",
+      "icon": "work"
+    },
+    {
+      "id": "3",
+      "title": "React Developer",
+      "location": "Goaira Technologies Pvt Ltd, Chennai",
+      "description":
+        "Oversaw the continuous development of tools and workflows to streamline critical business processes, while designing and implementing new systems and enhancements to boost productivity. Developed the admin panel and user interfaces for drivers, admins, customers, and franchise owners in a SaaS-based transport service platform, leveraging Material UI, React.js, Redux, and JavaScript to optimize user experiences.",
+      
+      "date": "November 2021 - July 2023",
+      "icon": "work"
+    },
+    {
+      "id": "4",
+      "title": "Frontend Developer",
+      "location": "Tata Consultancy Services, Chennai",
+      "description":
+        "Researched emerging web technologies and trends for potential integration into websites while contributing to the development and maintenance of Ultimatix, an internal TCS application, using HTML, CSS, Bootstrap, React.js, and Redux. Designed and updated layouts to enhance usability and performance, and actively participated in projects within Scrum-based project management environments.",
+      
+      "date": "July 2019 - November 2021",
+      "icon": "work"
+    }
+  
   ]
+  
 }
