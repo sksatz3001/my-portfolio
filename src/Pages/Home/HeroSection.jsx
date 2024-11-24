@@ -6,7 +6,7 @@ export default function HeroSection() {
       <div className="hero--section--content--box">
         <div className="hero--section--content">
           <p className="section--title">
-            Hey&nbsp;,&nbsp; &nbsp;
+            Hey&nbsp;,
             <span style={{ fontSize: "25px" }} className="customcol">
               {" "}
               I'm SATHISH

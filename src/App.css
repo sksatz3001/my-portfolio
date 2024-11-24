@@ -572,6 +572,7 @@ input[type="checkbox"] {
   .hero--section--title {
     font-size: 68px;
     line-height: 70px;
+   
   }
   .skills--section--title {
     font-size: 28px;
@@ -586,9 +587,11 @@ input[type="checkbox"] {
   }
   .skills--section--container {
     gap: 14px;
+    align-items: center;
   }
   .skills--section--card {
     gap: 28px;
+    width: 100%;
   }
   .skills--section--card--content {
     gap: 20px;
@@ -626,7 +629,11 @@ input[type="checkbox"] {
   .footer--content--container {
     display: flex;
     flex-direction: column;
+   
   }
+   .skills-section--heading{
+    text-align: center;
+   }
   .skills--section,
   .portfolio--container,
   .hero--section--content,
@@ -648,6 +655,7 @@ input[type="checkbox"] {
     gap: 20px;
     padding-top: 0;
     padding-bottom: 0;
+    
   }
   .testimonial--section--card {
     padding: 25px;
